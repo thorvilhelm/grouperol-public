@@ -1,5 +1,4 @@
-{
-  "users": [
+[
     {
       "id": 1,
       "username": "thor",
@@ -18,5 +17,4 @@
       "description": "An artist who enjoys painting and traveling.",
       "status": "ski"
     }
-  ]
-}
+]
