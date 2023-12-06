@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": "1",
       "username": "thor",
       "email": "test@test.is",
       "fullname": "Þór Vilhelm Jónatansson",
@@ -9,7 +9,7 @@
       "status": "ski"
     },
     {
-      "id": 2,
+      "id": "2",
       "username": "eva",
       "email": "test@test.is",
       "fullname": "Eva Hrönn Guðnadóttir",
