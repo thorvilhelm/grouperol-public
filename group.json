@@ -1,92 +1,92 @@
 [
     {
         "id": "1",
-        "username": "thor",
-        "email": "test@test.is",
-        "fullname": "Þór Vilhelm Jónatansson",
+        "username": "LukeSkywalker",
+        "email": "luke@rebels.com",
+        "fullname": "Luke Skywalker",
         "birthdate": "1990-05-15",
-        "description": "Description 1",
-        "status": "ski"
+        "description": "Jedi Knight",
+        "status": "Rebel Alliance"
     },
     {
         "id": "2",
-        "username": "eva",
-        "email": "test@test.is",
-        "fullname": "Eva Hrönn Guðnadóttir",
+        "username": "PrincessLeia",
+        "email": "leia@rebels.com",
+        "fullname": "Leia Organa",
         "birthdate": "1985-08-20",
-        "description": "Description 2",
-        "status": "ski"
+        "description": "Rebel Leader",
+        "status": "Rebel Alliance"
     },
     {
         "id": "3",
-        "username": "lisa",
-        "email": "test@test.is",
-        "fullname": "Lisa Johnson",
+        "username": "HanSolo",
+        "email": "han@smugglers.com",
+        "fullname": "Han Solo",
         "birthdate": "1993-03-10",
-        "description": "Description 3",
-        "status": "hiking"
+        "description": "Smuggler",
+        "status": "Rogue"
     },
     {
         "id": "4",
-        "username": "james",
-        "email": "test@test.is",
-        "fullname": "James Smith",
+        "username": "DarthVader",
+        "email": "vader@sith.com",
+        "fullname": "Darth Vader",
         "birthdate": "1988-11-25",
-        "description": "Description 4",
-        "status": "swimming"
+        "description": "Sith Lord",
+        "status": "Galactic Empire"
     },
     {
         "id": "5",
-        "username": "sarah",
-        "email": "test@test.is",
-        "fullname": "Sarah Brown",
+        "username": "PrincessLeia",
+        "email": "leia@rebels.com",
+        "fullname": "Leia Organa",
         "birthdate": "1995-09-14",
-        "description": "Description 5",
-        "status": "cycling"
+        "description": "Rebel Leader",
+        "status": "Rebel Alliance"
     },
     {
         "id": "6",
-        "username": "alex",
-        "email": "test@test.is",
-        "fullname": "Alex Wilson",
+        "username": "Chewbacca",
+        "email": "chewie@wookies.com",
+        "fullname": "Chewbacca",
         "birthdate": "1983-07-02",
-        "description": "Description 6",
-        "status": "running"
+        "description": "Wookiee",
+        "status": "Rebel Alliance"
     },
     {
         "id": "7",
-        "username": "emily",
-        "email": "test@test.is",
-        "fullname": "Emily Davis",
+        "username": "Yoda",
+        "email": "yoda@jedi.com",
+        "fullname": "Yoda",
         "birthdate": "1992-02-18",
-        "description": "Description 7",
-        "status": "ski"
+        "description": "Jedi Master",
+        "status": "Jedi Order"
     },
     {
         "id": "8",
-        "username": "michael",
-        "email": "test@test.is",
-        "fullname": "Michael Johnson",
+        "username": "ObiWanKenobi",
+        "email": "obiwan@jedi.com",
+        "fullname": "Obi-Wan Kenobi",
         "birthdate": "1986-12-07",
-        "description": "Description 8",
-        "status": "hiking"
+        "description": "Jedi Master",
+        "status": "Jedi Order"
     },
     {
         "id": "9",
-        "username": "olivia",
-        "email": "test@test.is",
-        "fullname": "Olivia Taylor",
+        "username": "BobaFett",
+        "email": "boba@bountyhunters.com",
+        "fullname": "Boba Fett",
         "birthdate": "1997-04-30",
-        "description": "Description 9",
-        "status": "swimming"
+        "description": "Bounty Hunter",
+        "status": "Mandalorians"
     },
     {
         "id": "10",
-        "username": "daniel",
-        "email": "test@test.is",
-        "fullname": "Daniel Anderson",
+        "username": "DarthMaul",
+        "email": "maul@sith.com",
+        "fullname": "Darth Maul",
         "birthdate": "1980-06-12",
-        "description": "Description 10",
-        "status": "cycling"
+        "description": "Sith Apprentice",
+        "status": "Sith"
     }
 ]
