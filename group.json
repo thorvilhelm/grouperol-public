@@ -1,20 +1,92 @@
 [
     {
-      "id": "1",
-      "username": "thor",
-      "email": "test@test.is",
-      "fullname": "Þór Vilhelm Jónatansson",
-      "birthdate": "1990-05-15",
-      "description": "Þór is the grill master and loves the sizzle of barbecue and the thrill of perfecting the perfect steak. He takes pride in his ability to turn simple ingredients into mouthwatering, smoky delights.",
-      "status": "ski"
+        "id": "1",
+        "username": "thor",
+        "email": "test@test.is",
+        "fullname": "Þór Vilhelm Jónatansson",
+        "birthdate": "1990-05-15",
+        "description": "Description 1",
+        "status": "ski"
     },
     {
-      "id": "2",
-      "username": "eva",
-      "email": "test@test.is",
-      "fullname": "Eva Hrönn Guðnadóttir",
-      "birthdate": "1985-08-20",
-      "description": "Eva, with her creative flair, enjoys crafting intricate recipes and experimenting with international cuisines. Her passion for food shines through in her homemade gourmet creations, from decadent desserts to exotic main courses.",
-      "status": "ski"
+        "id": "2",
+        "username": "eva",
+        "email": "test@test.is",
+        "fullname": "Eva Hrönn Guðnadóttir",
+        "birthdate": "1985-08-20",
+        "description": "Description 2",
+        "status": "ski"
+    },
+    {
+        "id": "3",
+        "username": "lisa",
+        "email": "test@test.is",
+        "fullname": "Lisa Johnson",
+        "birthdate": "1993-03-10",
+        "description": "Description 3",
+        "status": "hiking"
+    },
+    {
+        "id": "4",
+        "username": "james",
+        "email": "test@test.is",
+        "fullname": "James Smith",
+        "birthdate": "1988-11-25",
+        "description": "Description 4",
+        "status": "swimming"
+    },
+    {
+        "id": "5",
+        "username": "sarah",
+        "email": "test@test.is",
+        "fullname": "Sarah Brown",
+        "birthdate": "1995-09-14",
+        "description": "Description 5",
+        "status": "cycling"
+    },
+    {
+        "id": "6",
+        "username": "alex",
+        "email": "test@test.is",
+        "fullname": "Alex Wilson",
+        "birthdate": "1983-07-02",
+        "description": "Description 6",
+        "status": "running"
+    },
+    {
+        "id": "7",
+        "username": "emily",
+        "email": "test@test.is",
+        "fullname": "Emily Davis",
+        "birthdate": "1992-02-18",
+        "description": "Description 7",
+        "status": "ski"
+    },
+    {
+        "id": "8",
+        "username": "michael",
+        "email": "test@test.is",
+        "fullname": "Michael Johnson",
+        "birthdate": "1986-12-07",
+        "description": "Description 8",
+        "status": "hiking"
+    },
+    {
+        "id": "9",
+        "username": "olivia",
+        "email": "test@test.is",
+        "fullname": "Olivia Taylor",
+        "birthdate": "1997-04-30",
+        "description": "Description 9",
+        "status": "swimming"
+    },
+    {
+        "id": "10",
+        "username": "daniel",
+        "email": "test@test.is",
+        "fullname": "Daniel Anderson",
+        "birthdate": "1980-06-12",
+        "description": "Description 10",
+        "status": "cycling"
     }
 ]
