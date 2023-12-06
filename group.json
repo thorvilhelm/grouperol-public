@@ -5,7 +5,7 @@
       "email": "test@test.is",
       "fullname": "Þór Vilhelm Jónatansson",
       "birthdate": "1990-05-15",
-      "description": "Hugbúnaðarhönnuður sem hefur gaman af því að forrita og fara í bíó..",
+      "description": "Tölvunarfræðingur",
       "status": "ski"
     },
     {
@@ -14,7 +14,7 @@
       "email": "test@test.is",
       "fullname": "Eva Hrönn Guðnadóttir",
       "birthdate": "1985-08-20",
-      "description": "An artist who enjoys painting and traveling.",
+      "description": "Grafískur Hönnuður",
       "status": "ski"
     }
 ]
