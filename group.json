@@ -5,7 +5,7 @@
       "email": "test@test.is",
       "fullname": "Þór Vilhelm Jónatansson",
       "birthdate": "1990-05-15",
-      "description": "Tölvunarfræðingur",
+      "description": "Þór is the grill master and loves the sizzle of barbecue and the thrill of perfecting the perfect steak. He takes pride in his ability to turn simple ingredients into mouthwatering, smoky delights.",
       "status": "ski"
     },
     {
@@ -14,7 +14,7 @@
       "email": "test@test.is",
       "fullname": "Eva Hrönn Guðnadóttir",
       "birthdate": "1985-08-20",
-      "description": "Grafískur Hönnuður",
+      "description": "Eva, with her creative flair, enjoys crafting intricate recipes and experimenting with international cuisines. Her passion for food shines through in her homemade gourmet creations, from decadent desserts to exotic main courses.",
       "status": "ski"
     }
 ]
