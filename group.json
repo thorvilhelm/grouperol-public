@@ -1,92 +1,137 @@
 [
     {
         "id": "1",
-        "username": "LukeSkywalker",
-        "email": "luke@rebels.com",
-        "fullname": "Luke Skywalker",
-        "birthdate": "1990-05-15",
-        "description": "Jedi Knight",
-        "status": "Rebel Alliance"
+        "username": "CaptainHook",
+        "email": "captain@pirates.com",
+        "fullname": "Captain Hook",
+        "birthdate": "1680-03-25",
+        "description": "Pirate Captain",
+        "status": "Jolly Roger Crew"
     },
     {
         "id": "2",
-        "username": "PrincessLeia",
-        "email": "leia@rebels.com",
-        "fullname": "Leia Organa",
-        "birthdate": "1985-08-20",
-        "description": "Rebel Leader",
-        "status": "Rebel Alliance"
+        "username": "Blackbeard",
+        "email": "blackbeard@pirates.com",
+        "fullname": "Edward Teach",
+        "birthdate": "1675-06-10",
+        "description": "Infamous Pirate",
+        "status": "Blackbeard's Crew"
     },
     {
         "id": "3",
-        "username": "HanSolo",
-        "email": "han@smugglers.com",
-        "fullname": "Han Solo",
-        "birthdate": "1993-03-10",
-        "description": "Smuggler",
-        "status": "Rogue"
+        "username": "RedBeard",
+        "email": "redbeard@pirates.com",
+        "fullname": "Red Beard",
+        "birthdate": "1692-11-18",
+        "description": "Notorious Pirate",
+        "status": "Redbeard's Crew"
     },
     {
         "id": "4",
-        "username": "DarthVader",
-        "email": "vader@sith.com",
-        "fullname": "Darth Vader",
-        "birthdate": "1988-11-25",
-        "description": "Sith Lord",
-        "status": "Galactic Empire"
+        "username": "AnneBonny",
+        "email": "anne@pirates.com",
+        "fullname": "Anne Bonny",
+        "birthdate": "1702-12-08",
+        "description": "Feared Pirate",
+        "status": "Anne Bonny's Crew"
     },
     {
         "id": "5",
-        "username": "PrincessLeia",
-        "email": "leia@rebels.com",
-        "fullname": "Leia Organa",
-        "birthdate": "1995-09-14",
-        "description": "Rebel Leader",
-        "status": "Rebel Alliance"
+        "username": "CalicoJack",
+        "email": "calico@pirates.com",
+        "fullname": "Calico Jack",
+        "birthdate": "1682-02-17",
+        "description": "Pirate Captain",
+        "status": "Calico Jack's Crew"
     },
     {
         "id": "6",
-        "username": "Chewbacca",
-        "email": "chewie@wookies.com",
-        "fullname": "Chewbacca",
-        "birthdate": "1983-07-02",
-        "description": "Wookiee",
-        "status": "Rebel Alliance"
+        "username": "LongJohnSilver",
+        "email": "longjohn@pirates.com",
+        "fullname": "Long John Silver",
+        "birthdate": "1678-09-03",
+        "description": "Treasure Hunter",
+        "status": "Silver's Crew"
     },
     {
         "id": "7",
-        "username": "Yoda",
-        "email": "yoda@jedi.com",
-        "fullname": "Yoda",
-        "birthdate": "1992-02-18",
-        "description": "Jedi Master",
-        "status": "Jedi Order"
+        "username": "OneEyedWilly",
+        "email": "willy@pirates.com",
+        "fullname": "One-Eyed Willy",
+        "birthdate": "1660-04-12",
+        "description": "Legendary Pirate",
+        "status": "Willy's Crew"
     },
     {
         "id": "8",
-        "username": "ObiWanKenobi",
-        "email": "obiwan@jedi.com",
-        "fullname": "Obi-Wan Kenobi",
-        "birthdate": "1986-12-07",
-        "description": "Jedi Master",
-        "status": "Jedi Order"
+        "username": "SaltySam",
+        "email": "salty@pirates.com",
+        "fullname": "Salty Sam",
+        "birthdate": "1695-07-28",
+        "description": "Sea Rogue",
+        "status": "Sam's Crew"
     },
     {
         "id": "9",
-        "username": "BobaFett",
-        "email": "boba@bountyhunters.com",
-        "fullname": "Boba Fett",
-        "birthdate": "1997-04-30",
-        "description": "Bounty Hunter",
-        "status": "Mandalorians"
+        "username": "BlackBart",
+        "email": "blackbart@pirates.com",
+        "fullname": "Black Bart",
+        "birthdate": "1687-12-04",
+        "description": "Dreaded Buccaneer",
+        "status": "Bart's Crew"
     },
     {
         "id": "10",
-        "username": "DarthMaul",
-        "email": "maul@sith.com",
-        "fullname": "Darth Maul",
-        "birthdate": "1980-06-12",
-        "description": "Sith Apprentice",
-        "status": "Sith"
+        "username": "CaptainFlint",
+        "email": "flint@pirates.com",
+        "fullname": "Captain Flint",
+        "birthdate": "1689-06-28",
+        "description": "Maritime Outlaw",
+        "status": "Flint's Crew"
+    },
+    {
+        "id": "11",
+        "username": "PegLegPete",
+        "email": "pegleg@pirates.com",
+        "fullname": "Peg Leg Pete",
+        "birthdate": "1690-08-15",
+        "description": "Wooden-Legged Pirate",
+        "status": "Pete's Crew"
+    },
+    {
+        "id": "12",
+        "username": "StormySeaSara",
+        "email": "sara@pirates.com",
+        "fullname": "Stormy Sea Sara",
+        "birthdate": "1684-03-02",
+        "description": "Female Pirate Captain",
+        "status": "Sara's Crew"
+    },
+    {
+        "id": "13",
+        "username": "RumSwigginRoger",
+        "email": "roger@pirates.com",
+        "fullname": "Rum-Swiggin' Roger",
+        "birthdate": "1698-11-21",
+        "description": "Rum-Loving Pirate",
+        "status": "Roger's Crew"
+    },
+    {
+        "id": "14",
+        "username": "JollyJim",
+        "email": "jim@pirates.com",
+        "fullname": "Jolly Jim",
+        "birthdate": "1693-01-07",
+        "description": "Cheerful Buccaneer",
+        "status": "Jim's Crew"
+    },
+    {
+        "id": "15",
+        "username": "ScarletSiren",
+        "email": "scarlet@pirates.com",
+        "fullname": "Scarlet Siren",
+        "birthdate": "1670-05-30",
+        "description": "Enchanting Pirate",
+        "status": "Siren's Crew"
     }
 ]
