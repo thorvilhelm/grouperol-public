@@ -1,137 +1,128 @@
 [
     {
         "id": "1",
-        "username": "CaptainHook",
-        "email": "captain@pirates.com",
-        "fullname": "Captain Crook",
-        "birthdate": "1680-03-25",
-        "description": "Pirate Captain",
-        "status": "Jolly Roger Crew"
+        "username": "user1",
+        "email": "user1@example.com",
+        "fullname": "Eva Hrönn Guðnadóttir (47)",
+        "birthdate": "1975-03-12",
+        "description": "Software Engineer",
+        "status": "active"
     },
     {
         "id": "2",
-        "username": "Blackbeard",
-        "email": "blackbeard@pirates.com",
-        "fullname": "Edward Teach",
-        "birthdate": "1675-06-10",
-        "description": "Infamous Pirate",
-        "status": "Blackbeard's Crew"
+        "username": "user2",
+        "email": "user2@example.com",
+        "fullname": "Þór Vilhelm Jónatansson (50)",
+        "birthdate": "1972-09-20",
+        "description": "Graphic Designer",
+        "status": "inactive"
     },
     {
         "id": "3",
-        "username": "RedBeard",
-        "email": "redbeard@pirates.com",
-        "fullname": "Red Beard",
-        "birthdate": "1692-11-18",
-        "description": "Notorious Pirate",
-        "status": "Redbeard's Crew"
+        "username": "user3",
+        "email": "user3@example.com",
+        "fullname": "Guðmundur Guðnason (53)",
+        "birthdate": "1969-05-08",
+        "description": "Accountant",
+        "status": "active"
     },
     {
         "id": "4",
-        "username": "AnneBonny",
-        "email": "anne@pirates.com",
-        "fullname": "Anne Bonny",
-        "birthdate": "1702-12-08",
-        "description": "Feared Pirate",
-        "status": "Anne Bonny's Crew"
+        "username": "user4",
+        "email": "user4@example.com",
+        "fullname": "Alma María Rögnvaldsdóttir (52)",
+        "birthdate": "1970-12-15",
+        "description": "Teacher",
+        "status": "inactive"
     },
     {
         "id": "5",
-        "username": "CalicoJack",
-        "email": "calico@pirates.com",
-        "fullname": "Calico Jack",
-        "birthdate": "1682-02-17",
-        "description": "Pirate Captain",
-        "status": "Calico Jack's Crew"
+        "username": "user5",
+        "email": "user5@example.com",
+        "fullname": "Hjálmar Helgason (48)",
+        "birthdate": "1974-04-04",
+        "description": "Engineer",
+        "status": "active"
     },
     {
         "id": "6",
-        "username": "LongJohnSilver",
-        "email": "longjohn@pirates.com",
-        "fullname": "Long John Silver",
-        "birthdate": "1678-09-03",
-        "description": "Treasure Hunter",
-        "status": "Silver's Crew"
+        "username": "user6",
+        "email": "user6@example.com",
+        "fullname": "Berglind Ósk Ragnarsdóttir (47)",
+        "birthdate": "1975-06-23",
+        "description": "Writer",
+        "status": "inactive"
     },
     {
         "id": "7",
-        "username": "OneEyedWilly",
-        "email": "willy@pirates.com",
-        "fullname": "One-Eyed Willy",
-        "birthdate": "1660-04-12",
-        "description": "Legendary Pirate",
-        "status": "Willy's Crew"
+        "username": "user7",
+        "email": "user7@example.com",
+        "fullname": "Leiknir Ágústsson (50)",
+        "birthdate": "1972-03-30",
+        "description": "Marketing Manager",
+        "status": "active"
     },
     {
         "id": "8",
-        "username": "SaltySam",
-        "email": "salty@pirates.com",
-        "fullname": "Salty Sam",
-        "birthdate": "1695-07-28",
-        "description": "Sea Rogue",
-        "status": "Sam's Crew"
+        "username": "user8",
+        "email": "user8@example.com",
+        "fullname": "Tinna Björk Halldórsdóttir (47)",
+        "birthdate": "1975-11-09",
+        "description": "Artist",
+        "status": "inactive"
     },
     {
         "id": "9",
-        "username": "BlackBart",
-        "email": "blackbart@pirates.com",
-        "fullname": "Black Bart",
-        "birthdate": "1687-12-04",
-        "description": "Dreaded Buccaneer",
-        "status": "Bart's Crew"
+        "username": "user9",
+        "email": "user9@example.com",
+        "fullname": "Sveinn Hannesson (53)",
+        "birthdate": "1969-08-18",
+        "description": "Doctor",
+        "status": "active"
     },
     {
         "id": "10",
-        "username": "CaptainFlint",
-        "email": "flint@pirates.com",
-        "fullname": "Captain Flint",
-        "birthdate": "1689-06-28",
-        "description": "Maritime Outlaw",
-        "status": "Flint's Crew"
+        "username": "user10",
+        "email": "user10@example.com",
+        "fullname": "Helga Kristinsdóttir (52)",
+        "birthdate": "1970-05-27",
+        "description": "Architect",
+        "status": "inactive"
     },
     {
         "id": "11",
-        "username": "PegLegPete",
-        "email": "pegleg@pirates.com",
-        "fullname": "Peg Leg Pete",
-        "birthdate": "1690-08-15",
-        "description": "Wooden-Legged Pirate",
-        "status": "Pete's Crew"
+        "username": "user11",
+        "email": "user11@example.com",
+        "fullname": "Sveinn Benedikt Rögnvaldsson (48)",
+        "birthdate": "1974-09-11",
+        "description": "Sales Manager",
+        "status": "active"
     },
     {
         "id": "12",
-        "username": "StormySeaSara",
-        "email": "sara@pirates.com",
-        "fullname": "Stormy Sea Sara",
-        "birthdate": "1684-03-02",
-        "description": "Female Pirate Captain",
-        "status": "Sara's Crew"
+        "username": "user12",
+        "email": "user12@example.com",
+        "fullname": "Sigrún Dóra Sævinsdóttir (47)",
+        "birthdate": "1975-12-03",
+        "description": "Lawyer",
+        "status": "inactive"
     },
     {
         "id": "13",
-        "username": "RumSwigginRoger",
-        "email": "roger@pirates.com",
-        "fullname": "Rum-Swiggin' Roger",
-        "birthdate": "1698-11-21",
-        "description": "Rum-Loving Pirate",
-        "status": "Roger's Crew"
+        "username": "user13",
+        "email": "user13@example.com",
+        "fullname": "Lára Björk Einarsdóttir (48)",
+        "birthdate": "1974-11-08",
+        "description": "Chef",
+        "status": "active"
     },
     {
         "id": "14",
-        "username": "JollyJim",
-        "email": "jim@pirates.com",
-        "fullname": "Jolly Jim",
-        "birthdate": "1693-01-07",
-        "description": "Cheerful Buccaneer",
-        "status": "Jim's Crew"
-    },
-    {
-        "id": "15",
-        "username": "ScarletSiren",
-        "email": "scarlet@pirates.com",
-        "fullname": "Scarlet Siren",
-        "birthdate": "1670-05-30",
-        "description": "Enchanting Pirate",
-        "status": "Siren's Crew"
+        "username": "user14",
+        "email": "user14@example.com",
+        "fullname": "Þorvaldur Guðjónsson (47)",
+        "birthdate": "1975-02-25",
+        "description": "Consultant",
+        "status": "inactive"
     }
 ]
