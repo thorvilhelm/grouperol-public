@@ -1,128 +1,128 @@
 [
     {
-      "id": 1,
-      "username": "user1",
-      "email": "",
-      "fullname": "Ólafur Jónsson",
-      "birthdate": "1990-05-15",
-      "description": "Hugbúnaðarverkfræðingur sem elskar forritun og gönguferðalög.",
-      "status": "ski"
+        "id": "1",
+        "username": "user1",
+        "email": "user1@example.com",
+        "fullname": "Eva Hrönn Guðnadóttir (47)",
+        "birthdate": "1975-03-12",
+        "description": "Software Engineer",
+        "status": "active"
     },
     {
-      "id": 2,
-      "username": "user2",
-      "email": "",
-      "fullname": "Elin Hafsteinsdóttir",
-      "birthdate": "1985-08-20",
-      "description": "Listamaður sem nýtur málverka og ferðalaga.",
-      "status": "ski"
+        "id": "2",
+        "username": "user2",
+        "email": "user2@example.com",
+        "fullname": "Þór Vilhelm Jónatansson (50)",
+        "birthdate": "1972-09-20",
+        "description": "Graphic Designer",
+        "status": "inactive"
     },
     {
-      "id": 3,
-      "username": "user3",
-      "email": "",
-      "fullname": "Guðmundur Ólafsson",
-      "birthdate": "1992-03-10",
-      "description": "Kennari sem elskar lestru og garðyrkjuna.",
-      "status": "snowboard"
+        "id": "3",
+        "username": "user3",
+        "email": "user3@example.com",
+        "fullname": "Guðmundur Guðnason (53)",
+        "birthdate": "1969-05-08",
+        "description": "Accountant",
+        "status": "active"
     },
     {
-      "id": 4,
-      "username": "user4",
-      "email": "",
-      "fullname": "Sigríður Björnsdóttir",
-      "birthdate": "1988-11-25",
-      "description": "Hráefni sem nýtur matreiðslu og ljósmyndunar.",
-      "status": "snowboard"
+        "id": "4",
+        "username": "user4",
+        "email": "user4@example.com",
+        "fullname": "Alma María Rögnvaldsdóttir (52)",
+        "birthdate": "1970-12-15",
+        "description": "Teacher",
+        "status": "inactive"
     },
     {
-      "id": 5,
-      "username": "user5",
-      "email": "",
-      "fullname": "Davíð Ólafsson",
-      "birthdate": "1995-06-05",
-      "description": "Fjármálssérfræðingur sem áhugar sér á tölugreiningu og skák.",
-      "status": "ski"
+        "id": "5",
+        "username": "user5",
+        "email": "user5@example.com",
+        "fullname": "Hjálmar Helgason (48)",
+        "birthdate": "1974-04-04",
+        "description": "Engineer",
+        "status": "active"
     },
     {
-      "id": 6,
-      "username": "user6",
-      "email": "",
-      "fullname": "Sara Guðmundsdóttir",
-      "birthdate": "1987-09-14",
-      "description": "Hönnuður sem nýtur listmunaðar og gönguferðalaga.",
-      "status": "ski"
+        "id": "6",
+        "username": "user6",
+        "email": "user6@example.com",
+        "fullname": "Berglind Ósk Ragnarsdóttir (47)",
+        "birthdate": "1975-06-23",
+        "description": "Writer",
+        "status": "inactive"
     },
     {
-      "id": 7,
-      "username": "user7",
-      "email": "",
-      "fullname": "Matthías Pétursson",
-      "birthdate": "1994-02-28",
-      "description": "Tónlistarmaður sem elskar að spila gítar og ferðast.",
-      "status": "snowboard"
+        "id": "7",
+        "username": "user7",
+        "email": "user7@example.com",
+        "fullname": "Leiknir Ágústsson (50)",
+        "birthdate": "1972-03-30",
+        "description": "Marketing Manager",
+        "status": "active"
     },
     {
-      "id": 8,
-      "username": "user8",
-      "email": "",
-      "fullname": "Ólivia Haraldsdóttir",
-      "birthdate": "1983-07-08",
-      "description": "Arkitekt sem njótur hönnunar og gönguferðalaga.",
-      "status": "ski"
+        "id": "8",
+        "username": "user8",
+        "email": "user8@example.com",
+        "fullname": "Tinna Björk Halldórsdóttir (47)",
+        "birthdate": "1975-11-09",
+        "description": "Artist",
+        "status": "inactive"
     },
     {
-      "id": 9,
-      "username": "user9",
-      "email": "",
-      "fullname": "Jakob Einarsson",
-      "birthdate": "1991-04-19",
-      "description": "Ritstjóri sem áhugar sér á bókmenntum og ferðalögum.",
-      "status": "snowboard"
+        "id": "9",
+        "username": "user9",
+        "email": "user9@example.com",
+        "fullname": "Sveinn Hannesson (53)",
+        "birthdate": "1969-08-18",
+        "description": "Doctor",
+        "status": "active"
     },
     {
-      "id": 10,
-      "username": "user10",
-      "email": "",
-      "fullname": "Sóley Bjarnadóttir",
-      "birthdate": "1986-12-03",
-      "description": "Náttúruvísindamaður sem elskar rannsóknir og ljósmyndun.",
-      "status": "snowboard"
+        "id": "10",
+        "username": "user10",
+        "email": "user10@example.com",
+        "fullname": "Helga Kristinsdóttir (52)",
+        "birthdate": "1970-05-27",
+        "description": "Architect",
+        "status": "inactive"
     },
     {
-      "id": 11,
-      "username": "user11",
-      "email": "",
-      "fullname": "Víglundur Jökulsson",
-      "birthdate": "1993-01-17",
-      "description": "Hönnuður sem elskar tækni og fjallagöngu.",
-      "status": "ski"
+        "id": "11",
+        "username": "user11",
+        "email": "user11@example.com",
+        "fullname": "Sveinn Benedikt Rögnvaldsson (48)",
+        "birthdate": "1974-09-11",
+        "description": "Sales Manager",
+        "status": "active"
     },
     {
-      "id": 12,
-      "username": "user12",
-      "email": "",
-      "fullname": "Edda Sæmundsdóttir",
-      "birthdate": "1984-10-12",
-      "description": "Listamaður sem nýtur málverka og ferðalaga.",
-      "status": "ski"
+        "id": "12",
+        "username": "user12",
+        "email": "user12@example.com",
+        "fullname": "Sigrún Dóra Sævinsdóttir (47)",
+        "birthdate": "1975-12-03",
+        "description": "Lawyer",
+        "status": "inactive"
     },
     {
-      "id": 13,
-      "username": "user13",
-      "email": "",
-      "fullname": "Daníel Þórarinsson",
-      "birthdate": "1989-07-23",
-      "description": "Kennari sem elskar lestru og garðyrkjuna.",
-      "status": "snowboard"
+        "id": "13",
+        "username": "user13",
+        "email": "user13@example.com",
+        "fullname": "Lára Björk Einarsdóttir (48)",
+        "birthdate": "1974-11-08",
+        "description": "Chef",
+        "status": "active"
     },
     {
-      "id": 14,
-      "username": "user14",
-      "email": "",
-      "fullname": "Ása Valdimarsdóttir",
-      "birthdate": "1996-09-08",
-      "description": "Hráefni sem nýtur matreiðslu og ljósmyndunar.",
-      "status": "snowboard"
+        "id": "14",
+        "username": "user14",
+        "email": "user14@example.com",
+        "fullname": "Þorvaldur Guðjónsson (47)",
+        "birthdate": "1975-02-25",
+        "description": "Consultant",
+        "status": "inactive"
     }
 ]
